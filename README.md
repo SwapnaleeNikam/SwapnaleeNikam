@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SwapnaleeNikam
+👋 Hi, I’m @SwapnaleeNikam
 Welcome to my GitHub profile!
  I'm a Aspiring Data Analyst with a background in Computer Engineering from Pune University and a passion for uncovering insights from data. I’m on a journey to leverage data to solve real-world problems, combining my analytical skills with my curiosity about human behavior and psychology.
 
@@ -25,7 +25,10 @@ Welcome to my GitHub profile!
 
 📫 Connect with Me
    LinkedIn: www.linkedin.com/in/nikamswapnalee
+   
    Kaggle:https://www.kaggle.com/swapnaleenikam1
+
+
 Thanks for stopping by! 😊 Looking forward to connecting and learning from others in the data community.
 
 

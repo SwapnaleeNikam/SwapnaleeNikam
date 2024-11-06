@@ -8,23 +8,21 @@ Welcome to my GitHub profile!
 
 
 👨‍💻 About Me
-  
-  
-            💼 Currently looking for the opportunities as a Data Analyst.
-  
-  
-           📊 Gained experience in data cleaning, visualization, and analysis using Excel, SQL, Power BI, Tableau and Python.
-  
-  
-           🔍 Recently completed a Coffee Shop Sales Analysis project using Excel for in-depth sales insights.
-  
-  
-           🎓 Completed the Google Data Analytics Certification on Coursera and continually enhancing my skills through hands-on projects.
-  
-  
-            🧠 Exploring psychology as a hobby, which helps me understand consumer behavior and improve data-driven decisions.
 
 
+   💼 Currently looking for the opportunities as a Data Analyst.
+   
+   
+   📊 Gained experience in data cleaning, visualization, and analysis using Excel, SQL, Power BI, Tableau and Python.
+  
+  
+   🔍 Recently completed a Coffee Shop Sales Analysis project using Excel for in-depth sales insights.
+  
+  
+    🎓 Completed the Google Data Analytics Certification on Coursera and continually enhancing my skills through hands-on projects.
+  
+  
+     🧠 Exploring psychology as a hobby, which helps me understand consumer behavior and improve data-driven decisions.
 
 
 
@@ -33,40 +31,33 @@ Welcome to my GitHub profile!
 📂 Portfolio Projects
   
 
- 
-            Coffee Shop Sales Analysis – An Excel-based analysis of sales and customer trends for a coffee shop.
+    Coffee Shop Sales Analysis – An Excel-based analysis of sales and customer trends for a coffee shop.
  
   
   
    
-           🚀 Technical Skills
-                       Languages: SQL, Python
+   🚀 Technical Skills
+             
+             Languages: SQL, Python
        
         
-                       Data Analysis Tools: Excel, Power BI, Tableau, Google Sheets
+              Data Analysis Tools: Excel, Power BI, Tableau, Google Sheets
                        
                        
-                       Other: Data Cleaning, Data Visualization, Dashboarding, Exploratory Data Analysis
-
-
+              Other: Data Cleaning, Data Visualization, Dashboarding, Exploratory Data Analysis
 
 
 
 
 🌱 I’m Currently Learning
     
-     
-              📈 Advanced SQL techniques
-     
-     
-             🧩 Machine Learning basics for future projects
+      📈 Advanced SQL techniques
      
      
-             🤖 Expanding my data storytelling and reporting skills
-
-
-
-
+      🧩 Machine Learning basics for future projects
+     
+     
+       🤖 Expanding my data storytelling and reporting skills
 
 
 📫 Connect with Me
@@ -74,9 +65,6 @@ Welcome to my GitHub profile!
    LinkedIn: www.linkedin.com/in/nikamswapnalee
    
    Kaggle:https://www.kaggle.com/swapnaleenikam1
-
-
-
 
 
 Thanks for stopping by! 😊 Looking forward to connecting and learning from others in the data community.
